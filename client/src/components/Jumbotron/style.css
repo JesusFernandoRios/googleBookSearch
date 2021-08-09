@@ -1,10 +1,6 @@
-.jumbotron{
-    /* background-image: url("./bookcase.jpg"); */
-    background-color: black;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 300px; 
+.jumbotron-fluid {
+    background-color: none !important;
+    height: 200px; 
     width: 100%;
     padding-top: 10; 
     text-align: center

@@ -1,6 +1,7 @@
 .card{
     border-radius: 10px;
-    background-color: lightgrey
+    background-color: rgb(71, 71, 71);
+    color: white;
 }
 
 .search-list{
