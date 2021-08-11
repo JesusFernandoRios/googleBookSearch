@@ -3,6 +3,10 @@
     background-color: lightgrey
 }
 
+.card h3 {
+    color: white;
+}
+
 .saved-list{
     border-radius: 15px;
     background-color: lightyellow
@@ -16,4 +20,8 @@
 .viewBook {
     border-radius: 5px;
     margin-left: 5px
+}
+
+.bookDescription, .bookTitle {
+    color: black;
 }

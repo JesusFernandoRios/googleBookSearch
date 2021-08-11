@@ -21,8 +21,8 @@ const SavedResult = props => {
                             <li className="saved-list list-group-item" key={savedbook._id}>
                                 <Row className="SearchResult" id={savedbook.title + "Card"} key={savedbook._id}>
                                     {/* col-3 show image of the book */}
-                                    <Col size="2" className="bookImage">
-                                        <img src={savedbook.image} alt={savedbook.title} />
+                                    <Col size="2">
+                                        <img className="bookImage" src={savedbook.image} alt={savedbook.title} />
                                     </Col>
                                     <Col size="1" className="emptyCol"/>
                                     {/* col-9 show information of the book */}

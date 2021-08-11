@@ -2,4 +2,5 @@ body{
     background: linear-gradient(-225deg, rgba(2, 84, 131, 0.8), rgba(6, 29, 235, 0.8)),
     url("./utils/bookimage.jpg") no-repeat center center / cover;
     background-size: cover;
+    height: 100vh;
 }

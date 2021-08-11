@@ -16,13 +16,13 @@ const SearchResult = props => {
                 <div className="card-body player">
                     <div className="article">
                         <h3>Search Results</h3>
-                        {props.books.map(book => {
+                        {props.books.map((book, index) => {
                             return (
-                                <li className="search-list list-group-item" key={book._id}>
+                                <li className="search-list list-group-item" key={index}>
                                     <Row className="SearchResult row" id={book.title + "Card"} key={book._id}>
                                         {/* col-3 show image of the book */}
-                                        <Col size="2" className="bookImage">
-                                            <img src={book.image} alt={book.title} />
+                                        <Col size="2">
+                                            <img  className="bookImage" src={book.image} alt={book.title} />
                                         </Col>
                                         <Col size="1" className="emptyCol"/>
                                         {/* col-9 show information of the book */}

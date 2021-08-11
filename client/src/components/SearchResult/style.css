@@ -6,7 +6,9 @@
 
 .search-list{
     border-radius: 15px;
-    background-color: lightblue
+    background-color: lightblue;
+    padding: 30px;
+    margin: 30px;
 }
 
 .saveBook {
@@ -17,4 +19,8 @@
 .viewBook {
     border-radius: 5px;
     margin-left: 5px
+}
+
+.bookImage {
+    width: 200px;
 }
