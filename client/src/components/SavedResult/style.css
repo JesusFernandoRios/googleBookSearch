@@ -25,3 +25,10 @@
 .bookDescription, .bookTitle {
     color: black;
 }
+
+@media screen and (max-width: 768px) {
+    .saved-list {
+        margin: 0;
+        margin-bottom: 5%;
+    }
+}

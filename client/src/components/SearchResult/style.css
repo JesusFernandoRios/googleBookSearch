@@ -24,3 +24,10 @@
 .bookImage {
     width: 200px;
 }
+
+@media screen and (max-width: 768px) {
+    .search-list {
+        margin: 0;
+        margin-bottom: 5%;
+    }
+}
