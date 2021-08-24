@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.e4fbe2e8.chunk.css",
+  "main.css": "/static/css/main.d2249afe.chunk.css",
   "main.js": "/static/js/main.34f606af.chunk.js",
   "main.js.map": "/static/js/main.34f606af.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -7,8 +7,8 @@
   "static/js/2.dcb0fd0d.chunk.js": "/static/js/2.dcb0fd0d.chunk.js",
   "static/js/2.dcb0fd0d.chunk.js.map": "/static/js/2.dcb0fd0d.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.80f2a0df9002d34b2090a111f004cb3c.js": "/precache-manifest.80f2a0df9002d34b2090a111f004cb3c.js",
+  "precache-manifest.43a6bf5641212b51384a6ede2dfc5718.js": "/precache-manifest.43a6bf5641212b51384a6ede2dfc5718.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.e4fbe2e8.chunk.css.map": "/static/css/main.e4fbe2e8.chunk.css.map",
+  "static/css/main.d2249afe.chunk.css.map": "/static/css/main.d2249afe.chunk.css.map",
   "static/media/App.css": "/static/media/bookimage.c4a1edbe.jpg"
 }

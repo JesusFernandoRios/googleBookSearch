@@ -2,6 +2,12 @@
     background-color: none !important;
     height: 100px; 
     width: 100%;
-    padding-top: 10; 
+    margin-top: 10%; 
     text-align: center
+}
+
+@media screen and (max-width: 768px) {
+    .jumbotron-fluid {
+        margin-top: 20%;
+    }
 }
