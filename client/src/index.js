@@ -5,4 +5,4 @@ import App from "./App";
 import registerServiceWorker from "./registerServiceWorker";
 
 ReactDOM.render(<App />, document.getElementById("root"));
-registerServiceWorker();
+//render has been replaced with createRoot in React 18.
